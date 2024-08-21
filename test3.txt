@@ -1,0 +1,6 @@
+test to determie if the player wins or loses 
+for this specific scenario the given word is 'matlab" and only 6 lives are provided 
+
+input                             output 
+letter entered: a, m, l, t, b     you win 
+letter entered: c, i, r, s, e     you lose 

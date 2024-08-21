@@ -1,0 +1,8 @@
+for the word 'nice" 
+    
+input   output
+n       correct 
+e       incorrect 
+m       incorrect 
+i       nice 
+
